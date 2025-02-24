@@ -1,9 +1,7 @@
 # meshtube
-A single board with ESP32, E22 modem, and all necessary components to stay powered—ideal for remote installations and solar-powered operation.
+A single board with ESP32, E22 modem and all necessary components to stay powered in remote areas with a solar panel and a lithium battery.
 
-Ideal  for [meshtastic](https://github.com/meshtastic/firmware) remote nodes.
-
-For meshtastic, use [Hydra](https://github.com/meshtastic/firmware/variants/diy/hydra) variant.
+Ideal for [meshtastic](https://github.com/meshtastic/firmware) remote nodes, use [hydra](https://github.com/meshtastic/firmware/variants/diy/hydra) variant for it.
 
 # 3d rendering
 ![image](https://github.com/user-attachments/assets/96c83276-f50d-4733-b853-efe031aaa0bd)
