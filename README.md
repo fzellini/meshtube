@@ -1,5 +1,5 @@
 # meshtube
-A single board with ESP32, E22 modem and all necessary components to stay powered in remote areas with a solar panel and a lithium battery.
+A single board with ESP32, E22 modem and all necessary components to stay powered in remote areas with a solar panel and a lithium battery, inside a pipe ( tube, "tubo" in italian )
 
 Ideal for [meshtastic](https://github.com/meshtastic/firmware) remote nodes, use [hydra](https://github.com/meshtastic/firmware/variants/diy/hydra) variant for it.
 
